@@ -12,3 +12,7 @@ Añade el siguiente Virtual Host para probarlo:
 ```
 
 Y añade esta línea a tu host: ``127.0.0.1 famia.com``
+
+**Para ver la parte de las comandas**
+
+Mirar el archivo users.php
